@@ -56,6 +56,7 @@ input[type=button]{
 }
 .bien{
     background: greenyellow;
+    border: none;
 }
 .mal{
     background-color: red;
@@ -67,6 +68,7 @@ input[type=button]{
     width: 500px;
     height: 200px;
     border: 1px solid;
+
 }
 </style>
 <body>
